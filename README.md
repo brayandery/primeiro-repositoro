@@ -23,6 +23,14 @@
 .
 .
 .
-p {
- 	text-align: center
+body {
+	background: #cccccc
+}
+ 	
+ p {
+ 	text align: center;
+ }	
+
+strong{
+	color: red;
 }
